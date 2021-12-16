@@ -362,7 +362,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 34,Little Anthony and The Imperials,Tears On My Pillow,1958,413.json,Little Anthony,en
 35,Royal Teens,Short Shorts,1958,414.json,Royal Teens,en
 36,Jerry Lee Lewis,Great Balls Of Fire,1958,415.json,Jerry Lee Lewis,en
-37,Chordettes,Lollipop,1958,416.json,Chordettes,en
 38,Bobby Darin,Splish Splash,1958,417.json,Bobby Darin,en
 39,Connie Francis,Who's Sorry Now,1958,418.json,Connie Francis,en
 41,Jody Reynolds,Endles Sleep,1958,420.json,Jody Reynolds,en
@@ -884,6 +883,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 21,Dixie Cups,Chapel Of Love,1964,1000.json,Dixie Cups,en
 22,Terry Stafford,Suspicion,1964,1001.json,Terry Stafford,en
 23,Dave Clark Five,Glad All Over,1964,1002.json,Dave Clark Five,en
+24,Four Seasons,Rag Doll,1964,1003.json,Four Seasons,en
 25,Four Seasons,Dawn (Go Away),1964,1004.json,Four Seasons,en
 26,Newbeats,Bread And Butter,1964,1005.json,Newbeats,en
 27,Gene Pitney,It Hurts To Be In Love,1964,1006.json,Gene Pitney,en
@@ -1126,6 +1126,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 76,Lee Dorsey,Working In The Coal Mine,1966,1255.json,Lee Dorsey,en
 77,Dionne Warwick,Message To Michael,1966,1256.json,Dionne Warwick,en
 78,Lou Rawls,Love Is A Hurtin' Thing,1966,1257.json,Lou Rawls,en
+79,Beach Boys,Barbara Ann,1966,1258.json,Beach Boys,en
 80,Shadows Of Knight,Gloria,1966,1259.json,Shadows Of Knight,en
 81,Supremes,My World Is Empty Without You,1966,1260.json,Supremes,en
 82,Bob Dylan,Rainy Day Women #12 And 35,1966,1261.json,Bob Dylan,en
@@ -1301,6 +1302,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 63,Fireballs,Bottle Of Wine,1968,1442.json,Fireballs,en
 64,Dells,Stay In My Corner,1968,1443.json,Dells,en
 66,Tom Jones,Delilah,1968,1445.json,Tom Jones,en
+67,Human Beinz,Nobody But Me,1968,1446.json,Human Beinz,en
 68,Sam and Dave,I Thank You,1968,1447.json,Sam,en
 69,Sergio Mendes and Brasil '66,The Fool On The Hill,1968,1448.json,Sergio Mendes,en
 70,Eric Burdon and The Animals,Sky Pilot,1968,1449.json,Eric Burdon,en
@@ -1373,7 +1375,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 39,Zombies,Time Of The Season,1969,1518.json,Zombies,en
 41,Bobby Sherman,Little Woman,1969,1520.json,Bobby Sherman,en
 42,Mercy,Love (Can Make You Happy),1969,1521.json,Mercy,en
-43,Oliver,Good Morning Starshine,1969,1522.json,Oliver,en
 44,Guess Who,These Eyes,1969,1523.json,Guess Who,en
 45,"Blood, Sweat and Tears",You've Made Me So Very Happy,1969,1524.json,"Blood, Sweat",en
 46,Jackie DeShannon,Put A Little Love In Your Heart,1969,1525.json,Jackie DeShannon,en
@@ -1698,7 +1699,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 96,Rick Springfield,Speak To The Sky,1972,1875.json,Rick Springfield,en
 97,Hillside Singers,I'd Like To Teach The World To Sing,1972,1876.json,Hillside Singers,en
 99,James Brown,"Good Foot, Pt. 1",1972,1878.json,James Brown,en
-100,Isley Bros.,Pop That Thang,1972,1879.json,Isley Bros.,en
 1,Tony Orlando and Dawn,Tie A Yellow Ribbon Round The Ole Oak Tree,1973,1880.json,Tony Orl,en
 2,Jim Croce,Bad Bad Leroy Brown,1973,1881.json,Jim Croce,en
 3,Roberta Flack,Killing Me Softly With His Song,1973,1882.json,Roberta Flack,en
@@ -1798,11 +1798,11 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 4,Redbone,Come And Get Your Love,1974,1983.json,Redbone,en
 5,Jackson 5,Dancing Machine,1974,1984.json,Jackson 5,en
 6,Grand Funk Railroad,The Loco-Motion,1974,1985.json,Gr,en
-7,MFSB,TSOP,1974,1986.json,MFSB,en
 8,Ray Stevens,The Streak,1974,1987.json,Ray Stevens,en
 9,Elton John,Bennie And The Jets,1974,1988.json,Elton John,en
 10,Mac Davis,One Hell Of A Woman,1974,1989.json,Mac Davis,en
 11,Aretha Franklin,Until You Come Back To Me (That's What I'm Gonna Do),1974,1990.json,Aretha Franklin,en
+12,Kool and The Gang,Jungle Boogie,1974,1991.json,Kool,en
 13,Maria Muldaur,Midnight At The Oasis,1974,1992.json,Maria Muldaur,en
 14,Stylistics,You Make Me Feel Brand New,1974,1993.json,Stylistics,en
 15,Al Wilson,Show And Tell,1974,1994.json,Al Wilson,en
@@ -2021,7 +2021,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 42,Donny and Marie Osmond,Deep Purple,1976,2221.json,Donny,en
 43,Diana Ross,"Theme From ""Mahogany""",1976,2222.json,Diana Ross,en
 44,Rufus,Sweet Thing,1976,2223.json,Rufus,en
-45,K.C. and The Sunshine Band,That's The Way I Like It,1976,2224.json,K.C.,en
 46,Dr. Hook,A Little Bit More,1976,2225.json,Dr. Hook,en
 47,Henry Gross,Shannon,1976,2226.json,Henry Gross,en
 48,Chicago,If You Leave Me Now,1976,2227.json,Chicago,en
@@ -2115,7 +2114,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 38,Atlanta Rhythm Section,So In To You,1977,2317.json,Atlanta Rhythm Section,en
 39,Fleetwood Mac,Dreams,1977,2318.json,Fleetwood Mac,en
 40,Jacksons,Enjoy Yourself,1977,2319.json,Jacksons,en
-41,Brick,Dazz,1977,2320.json,Brick,en
 42,Peter Frampton,I'm In You,1977,2321.json,Peter Frampton,en
 43,Kenny Rogers,Lucille,1977,2322.json,Kenny Rogers,en
 44,10cc,The Things We Do For Love,1977,2323.json,10cc,en
@@ -3113,7 +3111,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 69,Glass Tiger,Someday,1987,3348.json,Glass Tiger,en
 70,ABC,When Smokey Sings,1987,3349.json,ABC,en
 71,Levert,Casanova,1987,3350.json,Levert,en
-72,Gloria Estefan and Miami Sound Machine,Rhythm Is Gonna Get You,1987,3351.json,Gloria Estefan,en
 73,Whispers,Rock Steady,1987,3352.json,Whispers,en
 74,Bon Jovi,Wanted Dead Or Alive,1987,3353.json,Bon Jovi,en
 75,Peter Gabriel,Big Time,1987,3354.json,Peter Gabriel,en
@@ -4121,7 +4118,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 21,Jennifer Paige,Crush,1998,4400.json,Jennifer Paige,en
 22,Backstreet Boys,Everybody (Backstreet's Back),1998,4401.json,Backstreet Boys,en
 23,Aerosmith,I Don't Want To Miss A Thing,1998,4402.json,Aerosmith,en
-24,Public Announcement,Body Bumpin (Yippie-Yi-Yo),1998,4403.json,Public Announcement,en
 25,Faith Hill,This Kiss,1998,4404.json,Faith Hill,en
 26,Uncle Sam,I Don't Ever Want To See You Again,1998,4405.json,Uncle Sam,en
 27,Montell Jordan,Let's Ride,1998,4406.json,Montell Jordan,en
@@ -5485,7 +5481,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 44,Usher,Scream,2012,5823.json,Usher,en
 45,Tyga,Rack City,2012,5824.json,Tyga,en
 46,Jessie J,Domino,2012,5825.json,Jessie J,en
-47,Psy,Gangnam Style,2012,5826.json,Psy,en
 48,Pitbull feat. Chris Brown,International Love,2012,5827.json,Pitbull,en
 49,Phillip Phillips,Home,2012,5828.json,Phillip Phillips,en
 50,David Guetta feat. Usher,Without You,2012,5829.json,David Guetta,en
@@ -5708,6 +5703,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 79,Dierks Bentley,Drunk On A Plane,2014,6058.json,Dierks Bentley,en
 80,Katy Perry,Birthday,2014,6059.json,Katy Perry,en
 81,Lady Antebellum,Bartender,2014,6060.json,Lady Antebellum,en
+82,Naughty Boy feat. Sam Smith,La La La,2014,6061.json,Naughty Boy,en
 83,Robin Thicke feat. T.I. and Pharrell,Blurred Lines,2014,6062.json,Robin Thicke,en
 84,Lady Gaga feat. R. Kelly,Do What U Want,2014,6063.json,Lady Gaga,en
 85,Shakira feat. Rihanna,Can't Remember To Forget You,2014,6064.json,Shakira,en
@@ -6009,6 +6005,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 87,Harry Styles,Sign Of The Times,2017,6366.json,Harry Styles,en
 88,Adele,Water Under The Bridge,2017,6367.json,Adele,en
 89,Miley Cyrus,Malibu,2017,6368.json,Miley Cyrus,en
+90,Marian Hill,Down,2017,6369.json,Marian Hill,en
 91,Cheat Codes Featuring Demi Lovato,No Promises,2017,6370.json,Cheat Codes,en
 92,Shawn Mendes,Treat You Better,2017,6371.json,Shawn Mendes,en
 93,Gucci Mane Featuring Migos,I Get The Bag,2017,6372.json,Gucci Mane,en
