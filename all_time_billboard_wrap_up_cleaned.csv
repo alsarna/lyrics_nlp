@@ -174,7 +174,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 18,Carl Perkins,Blue Suede Shoes,1956,197.json,Carl Perkins,en
 19,Jim Lowe,The Green Door,1956,198.json,Jim Lowe,en
 20,Four Lads,"No, Not Much",1956,199.json,Four Lads,en
-21,Bill Doggett,Honky Tonk,1956,200.json,Bill Doggett,en
 22,Tennessee Ernie Ford,Sixteen Tons,1956,201.json,Tennessee Ernie Ford,en
 23,Johnnie Ray,Just Walking In The Rain,1956,202.json,Johnnie Ray,en
 24,Patti Page,Allegheny Moon,1956,203.json,Patti Page,en
@@ -270,6 +269,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 25,Ricky Nelson,A Teenager's Romance,1957,304.json,Ricky Nelson,en
 26,Tarriers,The Banana Boat Song,1957,305.json,Tarriers,en
 27,Jimmie Rodgers,Honeycomb,1957,306.json,Jimmie Rodgers,en
+28,Jerry Lee Lewis,Whole Lotta Shakin' Goin' On,1957,307.json,Jerry Lee Lewis,en
 29,Gale Storm,Dark Moon,1957,308.json,Gale Storm,en
 30,Crickets,That'll Be The Day,1957,309.json,Crickets,en
 31,Charlie Gracie,Butterfly,1957,310.json,Charlie Gracie,en
@@ -499,7 +499,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 95,Jan and Dean,Baby Talk,1959,574.json,Jan,en
 96,Preston Epps,Bongo Rock,1959,575.json,Preston Epps,en
 97,Everly Brothers,Take A Message To Mary,1959,576.json,Everly Brothers,en
-98,Mormon Tabernacle Choir,Battle Hymn Of The Republic,1959,577.json,Mormon Tabernacle Choir,en
 100,Paul Evans and The Curls,(Seven Little Girls) Sitting In The Back Seat,1959,579.json,Paul Evans,en
 1,Percy Faith,"Theme From ""A Summer Place""",1960,580.json,Percy Faith,en
 2,Jim Reeves,He'll Have To Go,1960,581.json,Jim Reeves,en
@@ -579,7 +578,9 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 85,Ricky Nelson,Young Emotions,1960,664.json,Ricky Nelson,en
 86,Johnny Burnette,Dreamin',1960,665.json,Johnny Burnette,en
 87,Johnny Tillotson,Poetry In Motion,1960,666.json,Johnny Tillotson,en
+88,Annette,O Dio Mio,1960,667.json,Annette,en
 89,Joe Jones,You Talk Too Much,1960,668.json,Joe Jones,en
+90,Johnny and The Hurricanes,Beatnik Fly,1960,669.json,Johnny,en
 91,Everly Brothers,When Will I Be Loved,1960,670.json,Everly Brothers,en
 92,Bob Luman,Let's Think About Livin',1960,671.json,Bob Luman,en
 93,Guy Mitchell,Heartaches By The Number,1960,672.json,Guy Mitchell,en
@@ -762,7 +763,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 88,Gary U.S. Bonds,"Twist, Twist Senora",1962,867.json,Gary U.S. Bonds,en
 89,Jimmy Soul,Twistin' Matilda,1962,868.json,Jimmy Soul,en
 90,Dee Dee Sharp,Gravy,1962,869.json,Dee Dee Sharp,en
-91,Jimmy Smith,Walk On The Wild Side,1962,870.json,Jimmy Smith,en
 93,Bobby Rydell,I'll Never Dance Again,1962,872.json,Bobby Rydell,en
 94,Ikettes,I'm Blue,1962,873.json,Ikettes,en
 95,Kingston Trio,Where Have All The Flowers Gone,1962,874.json,Kingston Trio,en
@@ -883,7 +883,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 21,Dixie Cups,Chapel Of Love,1964,1000.json,Dixie Cups,en
 22,Terry Stafford,Suspicion,1964,1001.json,Terry Stafford,en
 23,Dave Clark Five,Glad All Over,1964,1002.json,Dave Clark Five,en
-24,Four Seasons,Rag Doll,1964,1003.json,Four Seasons,en
 25,Four Seasons,Dawn (Go Away),1964,1004.json,Four Seasons,en
 26,Newbeats,Bread And Butter,1964,1005.json,Newbeats,en
 27,Gene Pitney,It Hurts To Be In Love,1964,1006.json,Gene Pitney,en
@@ -1116,7 +1115,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 65,Temptations,Beauty Is Only Skin Deep,1966,1244.json,Temptations,en
 67,Paul Revere and The Raiders,Just Like Me,1966,1246.json,Paul Revere,en
 68,Deon Jackson,Love Makes The World Go Round,1966,1247.json,Deon Jackson,en
-69,Crispian St. Peters,The Pied Piper,1966,1248.json,Crispian St. Peters,en
 70,Brenda Lee,Coming On Strong,1966,1249.json,Brenda Lee,en
 71,Ray Conniff and The Singers,Somewhere My Love,1966,1250.json,Ray Conniff,en
 72,David Houston,Almost Persuaded,1966,1251.json,David Houston,en
@@ -1181,6 +1179,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 34,Esquires,Get On Up,1967,1313.json,Esquires,en
 35,Van Morrison,Brown Eyed Girl,1967,1314.json,Van Morrison,en
 36,Martha and The Vandella,Jimmy Mack,1967,1315.json,Martha,en
+37,Happenings,I Got Rhythm,1967,1316.json,Happenings,en
 38,Procol Harum,A Whiter Shade Of Pale,1967,1317.json,Procol Harum,en
 39,Buckinghams,Don't You Care,1967,1318.json,Buckinghams,en
 40,Casinos,Then You Can Tell Me Goodbye,1967,1319.json,Casinos,en
@@ -1208,7 +1207,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 62,Mama's and The Papa's,Dedicated To The One I Love,1967,1341.json,Mama's,en
 63,Young Rascals,How Can I Be Sure,1967,1342.json,Young Rascals,en
 64,Hollies,Carrie Ann,1967,1343.json,Hollies,en
-65,Blue Magoos,(We Ain't Got) Nothin' Yet,1967,1344.json,Blue Magoos,en
 66,Easy Beats,Friday On My Mind,1967,1345.json,Easy Beats,en
 68,Spencer Davis Group,Gimme Some Lovin',1967,1347.json,Spencer Davis Group,en
 69,Hombres,Let It Out (Let It All Hang Out),1967,1348.json,Hombres,en
@@ -1274,7 +1272,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 34,Gary Puckett and The Union Gap,Lady Willpower,1968,1413.json,Gary Puckett,en
 35,Rascals,A Beautiful Morning,1968,1414.json,Rascals,en
 36,Sergio Mendes and Brasil '66,The Look Of Love,1968,1415.json,Sergio Mendes,en
-37,Johnny Nash,Hold Me Tight,1968,1416.json,Johnny Nash,en
 38,Ohio Express,"Yummy, Yummy, Yummy",1968,1417.json,Ohio Express,en
 39,Crazy World Of Arthur Brown,Fire,1968,1418.json,Crazy World Of Arthur Brown,en
 40,Troggs,Love Is All Around,1968,1419.json,Troggs,en
@@ -1302,7 +1299,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 63,Fireballs,Bottle Of Wine,1968,1442.json,Fireballs,en
 64,Dells,Stay In My Corner,1968,1443.json,Dells,en
 66,Tom Jones,Delilah,1968,1445.json,Tom Jones,en
-67,Human Beinz,Nobody But Me,1968,1446.json,Human Beinz,en
 68,Sam and Dave,I Thank You,1968,1447.json,Sam,en
 69,Sergio Mendes and Brasil '66,The Fool On The Hill,1968,1448.json,Sergio Mendes,en
 70,Eric Burdon and The Animals,Sky Pilot,1968,1449.json,Eric Burdon,en
@@ -1375,6 +1371,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 39,Zombies,Time Of The Season,1969,1518.json,Zombies,en
 41,Bobby Sherman,Little Woman,1969,1520.json,Bobby Sherman,en
 42,Mercy,Love (Can Make You Happy),1969,1521.json,Mercy,en
+43,Oliver,Good Morning Starshine,1969,1522.json,Oliver,en
 44,Guess Who,These Eyes,1969,1523.json,Guess Who,en
 45,"Blood, Sweat and Tears",You've Made Me So Very Happy,1969,1524.json,"Blood, Sweat",en
 46,Jackie DeShannon,Put A Little Love In Your Heart,1969,1525.json,Jackie DeShannon,en
@@ -1656,6 +1653,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 48,Elvis Presley,Burning Love,1972,1827.json,Elvis Presley,en
 49,Betty Wright,Clean Up Woman,1972,1828.json,Betty Wright,en
 50,Argent,Hold Your Head Up,1972,1829.json,Argent,en
+51,Chakachas,Jungle Fever,1972,1830.json,Chakachas,en
 52,Bread,Everything I Own,1972,1831.json,Bread,en
 53,Dramatics,In The Rain,1972,1832.json,Dramatics,en
 54,Al Green,Look What You Done For Me,1972,1833.json,Al Green,en
@@ -1699,6 +1697,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 96,Rick Springfield,Speak To The Sky,1972,1875.json,Rick Springfield,en
 97,Hillside Singers,I'd Like To Teach The World To Sing,1972,1876.json,Hillside Singers,en
 99,James Brown,"Good Foot, Pt. 1",1972,1878.json,James Brown,en
+100,Isley Bros.,Pop That Thang,1972,1879.json,Isley Bros.,en
 1,Tony Orlando and Dawn,Tie A Yellow Ribbon Round The Ole Oak Tree,1973,1880.json,Tony Orl,en
 2,Jim Croce,Bad Bad Leroy Brown,1973,1881.json,Jim Croce,en
 3,Roberta Flack,Killing Me Softly With His Song,1973,1882.json,Roberta Flack,en
@@ -1798,6 +1797,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 4,Redbone,Come And Get Your Love,1974,1983.json,Redbone,en
 5,Jackson 5,Dancing Machine,1974,1984.json,Jackson 5,en
 6,Grand Funk Railroad,The Loco-Motion,1974,1985.json,Gr,en
+7,MFSB,TSOP,1974,1986.json,MFSB,en
 8,Ray Stevens,The Streak,1974,1987.json,Ray Stevens,en
 9,Elton John,Bennie And The Jets,1974,1988.json,Elton John,en
 10,Mac Davis,One Hell Of A Woman,1974,1989.json,Mac Davis,en
@@ -1968,6 +1968,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 82,Al Green,Sha-La-La (Make Me Happy),1975,2161.json,Al Green,en
 83,America,Lonely People,1975,2162.json,America,en
 84,Rufus,You Got The Love,1975,2163.json,Rufus,en
+85,Mike Post,The Rockford Files,1975,2164.json,Mike Post,en
 86,Tavares,It Only Takes A Minute,1975,2165.json,Tavares,en
 87,Ringo Starr,No No Song / Snookeroo,1975,2166.json,Ringo Starr,en
 89,Jethro Tull,Bungle In The Jungle,1975,2168.json,Jethro Tull,en
@@ -1986,7 +1987,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 4,Four Seasons,"December, 1963 (Oh, What A Night)",1976,2183.json,Four Seasons,en
 5,Wild Cherry,Play That Funky Music,1976,2184.json,Wild Cherry,en
 6,Manhattans,Kiss And Say Goodbye,1976,2185.json,Manhattans,en
-7,Miracles,Love Machine (Part 1),1976,2186.json,Miracles,en
 8,Paul Simon,50 Ways To Leave Your Lover,1976,2187.json,Paul Simon,en
 9,Gary Wright,Love Is Alive,1976,2188.json,Gary Wright,en
 11,Daryl Hall and John Oates,Sara Smile,1976,2190.json,Daryl Hall,en
@@ -2034,7 +2034,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 56,Elvin Bishop,Fooled Around And Fell In Love,1976,2235.json,Elvin Bishop,en
 57,C.W. McCall,Convoy,1976,2236.json,C.W. McCall,en
 58,John Sebastian,Welcome Back,1976,2237.json,John Sebastian,en
-59,"Earth, Wind and Fire",Sing A Song,1976,2238.json,"Earth, Wind",en
 60,Tavares,Heaven Must Be Missing An Angel,1976,2239.json,Tavares,en
 61,Brothers Johnson,I'll Be Good To You,1976,2240.json,Brothers Johnson,en
 62,Captain and Tennille,Shop Around,1976,2241.json,Captain,en
@@ -2048,9 +2047,9 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 70,Silver,Wham Bam,1976,2249.json,Silver,en
 71,Keith Carradine,I'm Easy,1976,2250.json,Keith Carradine,en
 72,Harold Melvin and The Bluenotes,Wake Up Everybody (Pt. 1),1976,2251.json,Harold Melvin,en
+73,War,Summer,1976,2252.json,War,en
 74,John Travolta,Let Her In,1976,2253.json,John Travolta,en
 75,Sweet,Fox On The Run,1976,2254.json,Sweet,en
-76,Fleetwood Mac,Rhiannon (Will You Ever Win),1976,2255.json,Fleetwood Mac,en
 77,Beatles,Got To Get You Into My Life,1976,2256.json,Beatles,en
 78,Bee Gees,Fanny (Be Tender With My Love),1976,2257.json,Bee Gees,en
 79,"Earth, Wind and Fire",Getaway,1976,2258.json,"Earth, Wind",en
@@ -2094,7 +2093,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 18,Stevie Wonder,Sir Duke,1977,2297.json,Stevie Wonder,en
 19,Eagles,Hotel California,1977,2298.json,Eagles,en
 20,Marvin Gaye,"Got To Give It Up, Pt. 1",1977,2299.json,Marvin Gaye,en
-21,Bill Conti,"Theme From ""Rocky"" (Gonna Fly Now)",1977,2300.json,Bill Conti,en
 22,Glen Campbell,Southern Nights,1977,2301.json,Glen Campbell,en
 23,Daryl Hall and John Oates,Rich Girl,1977,2302.json,Daryl Hall,en
 24,Leo Sayer,When I Need You,1977,2303.json,Leo Sayer,en
@@ -2478,7 +2476,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 21,John Lennon,Woman,1981,2700.json,John Lennon,en
 22,A Taste Of Honey,Sukiyaki,1981,2701.json,A Taste Of Honey,en
 23,ABBA,The Winner Takes It All,1981,2702.json,ABBA,en
-24,Stars On 45,Medley,1981,2703.json,Stars On 45,en
 25,Juice Newton,Angel Of The Morning,1981,2704.json,Juice Newton,en
 26,Neil Diamond,Love On The Rocks,1981,2705.json,Neil Diamond,en
 27,Air Supply,Every Woman In The World,1981,2706.json,Air Supply,en
@@ -2832,7 +2829,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 85,Police,Wrapped Around Your Finger,1984,3064.json,Police,en
 86,John Cougar Mellencamp,Pink Houses,1984,3065.json,John Cougar Mellencamp,en
 87,Ratt,Round And Round,1984,3066.json,Ratt,en
-88,Go-Go's,Head Over Heels,1984,3067.json,Go-Go's,en
 89,Billy Joel,The Longest Time,1984,3068.json,Billy Joel,en
 90,Kool and The Gang,Tonight,1984,3069.json,Kool,en
 91,Christine McVie,Got A Hold On Me,1984,3070.json,Christine McVie,en
@@ -3111,6 +3107,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 69,Glass Tiger,Someday,1987,3348.json,Glass Tiger,en
 70,ABC,When Smokey Sings,1987,3349.json,ABC,en
 71,Levert,Casanova,1987,3350.json,Levert,en
+72,Gloria Estefan and Miami Sound Machine,Rhythm Is Gonna Get You,1987,3351.json,Gloria Estefan,en
 73,Whispers,Rock Steady,1987,3352.json,Whispers,en
 74,Bon Jovi,Wanted Dead Or Alive,1987,3353.json,Bon Jovi,en
 75,Peter Gabriel,Big Time,1987,3354.json,Peter Gabriel,en
@@ -3219,6 +3216,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 78,Bruce Hornsby and The Range,The Valley Road,1988,3457.json,Bruce Hornsby,en
 79,Bobby Brown,Don't Be Cruel,1988,3458.json,Bobby Brown,en
 80,Pet Shop Boys,Always On My Mind,1988,3459.json,Pet Shop Boys,en
+81,Brenda Russell feat. Joe Esposito,Piano In The Dark,1988,3460.json,Brenda Russell,en
 82,Van Halen,When It's Love,1988,3461.json,Van Halen,en
 83,Paul Carrack,Don't Shed A Tear,1988,3462.json,Paul Carrack,en
 84,Sting,We'll Be Together,1988,3463.json,Sting,en
@@ -4118,6 +4116,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 21,Jennifer Paige,Crush,1998,4400.json,Jennifer Paige,en
 22,Backstreet Boys,Everybody (Backstreet's Back),1998,4401.json,Backstreet Boys,en
 23,Aerosmith,I Don't Want To Miss A Thing,1998,4402.json,Aerosmith,en
+24,Public Announcement,Body Bumpin (Yippie-Yi-Yo),1998,4403.json,Public Announcement,en
 25,Faith Hill,This Kiss,1998,4404.json,Faith Hill,en
 26,Uncle Sam,I Don't Ever Want To See You Again,1998,4405.json,Uncle Sam,en
 27,Montell Jordan,Let's Ride,1998,4406.json,Montell Jordan,en
@@ -4263,6 +4262,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 72,Case,Happily Ever After,1999,4551.json,Case,en
 73,Whitney Houston,My Love Is Your Love,1999,4552.json,Whitney Houston,en
 74,Faith Evans feat. Puff Daddy,All Night Long,1999,4553.json,Faith Evans,en
+75,Juvenile feat. Mannie Fresh and Lil' Wayne,Back That Thang Up,1999,4554.json,Juvenile,en
 76,Brandy,Almost Doesn't Count,1999,4555.json,Br,en
 77,Shania Twain,Man! I Feel Like A Woman!,1999,4556.json,Shania Twain,en
 78,Len,Steal My Sunshine,1999,4557.json,Len,en
@@ -4286,6 +4286,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 97,'N Sync and Gloria Estefan,Music Of My Heart,1999,4576.json,'N Sync,en
 98,George Strait,Write This Down,1999,4577.json,George Strait,en
 99,Whitney Houston and Mariah Carey,When You Believe,1999,4578.json,Whitney Houston,en
+100,Alabama feat. 'N Sync,God Must Have Spent A Little More Time On You,1999,4579.json,Alabama,en
 1,Faith Hill,Breathe,2000,4580.json,Faith Hill,en
 2,Santana feat. Rob Thomas,Smooth,2000,4581.json,Santana,en
 3,Santana feat. The Product GandB,Maria Maria,2000,4582.json,Santana,en
@@ -4297,8 +4298,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 10,Toni Braxton,He Wasn't Man Enough,2000,4589.json,Toni Braxton,en
 11,Creed,Higher,2000,4590.json,Creed,en
 12,Aaliyah,Try Again,2000,4591.json,Aaliyah,en
-13,Destiny's Child,Jumpin Jumpin',2000,4592.json,Destiny's Child,en
-14,Sisqo,Thong Song,2000,4593.json,Sisqo,en
 15,3 Doors Down,Kryptonite,2000,4594.json,3 Doors Down,en
 16,Pink,There You Go,2000,4595.json,Pink,en
 17,Madonna,Music,2000,4596.json,Madonna,en
@@ -4433,6 +4432,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 50,Ginuwine,Differences,2001,4729.json,Ginuwine,en
 51,'N Sync,This I Promise You,2001,4730.json,'N Sync,en
 52,Jay-Z,Izzo (H.O.V.A.),2001,4731.json,Jay-Z,en
+53,Lil' Mo feat. Fabolous,Superwoman Pt. II,2001,4732.json,Lil' Mo,en
 54,Evan And Jaron,Crazy For This Girl,2001,4733.json,Evan And Jaron,en
 55,Ricky Martin and Christina Aguilera,Nobody Wants To Be Lonely,2001,4734.json,Ricky Martin,en
 56,Jay-Z,I Just Wanna Love U (Give It 2 Me),2001,4735.json,Jay-Z,en
@@ -4460,6 +4460,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 78,Tim McGraw,Grown Men Don't Cry,2001,4757.json,Tim McGraw,en
 79,Ja Rule feat. Case,Livin' It Up,2001,4758.json,Ja Rule,en
 80,Mariah Carey feat. Cameo,Loverboy,2001,4759.json,Mariah Carey,en
+81,Isley Brothers feat. Ronald Isley AKA Mr. Biggs,Contagious,2001,4760.json,Isley Brothers,en
 82,Jessica Andrews,Who I Am,2001,4761.json,Jessica Andrews,en
 83,Erick Sermon feat. Marvin Gaye,Music,2001,4762.json,Erick Sermon,en
 84,Willa Ford,I Wanna Be Bad,2001,4763.json,Willa Ford,en
@@ -4476,6 +4477,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 95,Nelly,E.I.,2001,4774.json,Nelly,en
 96,3 Doors Down,Be Like That,2001,4775.json,3 Doors Down,en
 97,Pink,Most Girls,2001,4776.json,Pink,en
+98,QB's Finest feat. Nas and Braveheart's,Oochie Wally,2001,4777.json,QB's Finest,en
 99,Enrique Iglesias,Hero,2001,4778.json,Enrique Iglesias,en
 100,Fuel,Hemorrhage (In My Hands),2001,4779.json,Fuel,en
 1,Nickelback,How You Remind Me,2002,4780.json,Nickelback,en
@@ -4495,6 +4497,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 15,P. Diddy feat. Usher and Loon,I Need a Girl (Part One),2002,4794.json,P. Diddy,en
 16,Usher,U Don't have to Call,2002,4795.json,Usher,en
 17,Mary J. Blige,Family Affair,2002,4796.json,Mary J. Blige,en
+18,"P. Diddy and Ginuwine feat. Loon, Mario Winans and Tammy Ruggeri",I Need a Girl (Part Two),2002,4797.json,P. Diddy,en
 19,Eve feat. Alicia Keys,Gangsta Lovin',2002,4798.json,Eve,en
 20,Creed,My Sacrifice,2002,4799.json,Creed,en
 21,Eminem,Without Me,2002,4800.json,Eminem,en
@@ -4536,6 +4539,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 59,No Doubt,Hello Good,2002,4838.json,No Doubt,en
 60,Faith Evans,I Love You,2002,4839.json,Faith Evans,en
 61,Daniel Bedingfield,Gotta Get Thru This,2002,4840.json,Daniel Bedingfield,en
+62,Busta Rhymes feat. P. Diddy and Pharrell,Pass the Courvoisier Part II,2002,4841.json,Busta Rhymes,en
 63,Eminem,Lose Yourself,2002,4842.json,Eminem,en
 64,Michael Jackson,Butterflies,2002,4843.json,Michael Jackson,en
 65,Brandy,What About Us?,2002,4844.json,Br,en
@@ -4584,9 +4588,9 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 8,Aaliyah,Miss You,2003,4887.json,Aaliyah,en
 9,Kid Rock feat. Sheryl Crow,Picture,2003,4888.json,Kid Rock,en
 10,Evanescence feat. Paul McCoy,Bring Me To Life,2003,4889.json,Evanescence,en
-11,Lil Jon and The East Side Boyz feat. Ying Yang Twins,Get Low,2003,4890.json,Lil Jon,en
 12,Beyonce feat. Sean Paul,Baby Boy,2003,4891.json,Beyonce,en
 13,"Nelly, P. Diddy and Murphy Lee",Shake Ya Tailfeather,2003,4892.json,"Nelly, P. Diddy",en
+14,50 Cent feat. Nate Dogg,21 Questions,2003,4893.json,50 Cent,en
 15,Jennifer Lopez feat. LL Cool J,All I Have,2003,4894.json,Jennifer Lopez,en
 16,Christina Aguilera,Beautiful,2003,4895.json,Christina Aguilera,en
 18,Avril Lavigne,I'm With You,2003,4897.json,Avril Lavigne,en
@@ -4626,6 +4630,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 52,Jason Mraz,The Remedy (I Won't Worry),2003,4931.json,Jason Mraz,en
 53,Santana feat. Alex Band Or Chad Kroeger,Why Don't You And I,2003,4932.json,Santana,en
 54,Jay-Z,Excuse Me Miss,2003,4933.json,Jay-Z,en
+55,Jennifer Lopez feat. Styles and Jadakiss,Jenny from the Block,2003,4934.json,Jennifer Lopez,en
 56,Michelle Branch,Are You Happy Now?,2003,4935.json,Michelle Branch,en
 57,Shania Twain,Forever And For Always,2003,4936.json,Shania Twain,en
 58,Nas,I Can,2003,4937.json,Nas,en
@@ -4644,7 +4649,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 71,Frankie J,Don't Wanna Try,2003,4950.json,Frankie J,en
 72,Lil' Kim feat. Mr. Cheeks,The Jump Off,2003,4951.json,Lil' Kim,en
 73,Jewel,Intuition,2003,4952.json,Jewel,en
-74,Ginuwine feat. Baby,Hell Yeah,2003,4953.json,Ginuwine,en
 75,Toby Keith feat. Willie Nelson,Beer For My Horses,2003,4954.json,Toby Keith,en
 77,Baby Bash feat. Frankie J,Suga Suga,2003,4956.json,Baby Bash,en
 78,Erykah Badu feat. Common,Love Of My Life (An Ode To Hip Hop),2003,4957.json,Erykah Badu,en
@@ -4733,7 +4737,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 67,LL Cool J,Headsprung,2004,5046.json,LL Cool J,en
 68,YoungBloodZ feat. Lil Jon,Damn!,2004,5047.json,YoungBloodZ,en
 69,Beyonce feat. Sean Paul,Baby Boy,2004,5048.json,Beyonce,en
-70,Lil Jon and The East Side Boyz feat. Ying Yang Twins,Get Low,2004,5049.json,Lil Jon,en
 71,Snoop Dogg feat. Pharrell,Drop it Like it's Hot,2004,5050.json,Snoop Dogg,en
 72,Monica,U Should've Known Better,2004,5051.json,Monica,en
 73,Ryan Cabrera,On the Way Down,2004,5052.json,Ryan Cabrera,en
@@ -4813,8 +4816,8 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 50,Fat Joe feat. Nelly,Get It Poppin',2005,5129.json,Fat Joe,en
 51,David Banner,Play,2005,5130.json,David Banner,en
 52,Young Jeezy feat. Akon,Soul Survivor,2005,5131.json,Young Jeezy,en
-53,Ludacris feat. Bobby Valentino,Pimpin' All Over the World,2005,5132.json,Ludacris,en
 54,Usher And Alicia Keys,My Boo,2005,5133.json,Usher And Alicia Keys,en
+55,"Trick Daddy feat. Ludacris, Lil' Kim and Cee-Lo",Sugar (Gimme Some),2005,5134.json,Trick Daddy,en
 56,Alicia Keys,Karma,2005,5135.json,Alicia Keys,en
 57,Coldplay,Speed Of Sound,2005,5136.json,Coldplay,en
 58,Gavin DeGraw,I Don't Want To Be,2005,5137.json,Gavin DeGraw,en
@@ -4866,7 +4869,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 5,Shakira feat. Wyclef Jean,Hips Don't Lie,2006,5184.json,Shakira,en
 6,Natasha Bedingfield,Unwritten,2006,5185.json,Natasha Bedingfield,en
 7,Gnarls Barkley,Crazy,2006,5186.json,Gnarls Barkley,en
-8,Chamillionaire feat. Krayzie Bone,Ridin',2006,5187.json,Chamillionaire,en
 9,Justin Timberlake,Sexyback,2006,5188.json,Justin Timberlake,en
 10,Beyonce feat. Slim Thug,Check on It,2006,5189.json,Beyonce,en
 11,Mary J. Blige,Be Without You,2006,5190.json,Mary J. Blige,en
@@ -4881,6 +4883,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 22,Fergie,London Bridge,2006,5201.json,Fergie,en
 23,Red Hot Chili Peppers,Dani California,2006,5202.json,Red Hot Chili Peppers,en
 24,Lil Jon feat. E-40 and Sean Paul Of The YoungBloodZ,Snap Yo Fingers,2006,5203.json,Lil Jon,en
+25,Dem Franchize Boyz feat. Lil Peanut and Charlay,"Lean Wit It, Rock Wit It",2006,5204.json,Dem Franchize Boyz,en
 26,Rascal Flatts,What Hurts the Most,2006,5205.json,Rascal Flatts,en
 27,Fray,How to Save a Life,2006,5206.json,Fray,en
 28,Rihanna,Unfaithful,2006,5207.json,Rihanna,en
@@ -4911,6 +4914,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 53,Nickelback,Far Away,2006,5232.json,Nickelback,en
 54,Nick Lachey,What's Left of Me,2006,5233.json,Nick Lachey,en
 55,Field Mob feat. Ciara,So What,2006,5234.json,Field Mob,en
+56,Cherish feat. Sean Paul Of The YoungBloodZ,Do it to It,2006,5235.json,Cherish,en
 57,KT Tunstall,Black Horse and the Cherry Tree,2006,5236.json,KT Tunstall,en
 58,Juelz Santana,There it Go! (The Whistle Song),2006,5237.json,Juelz Santana,en
 59,Young Dro feat. T.I.,Shoulder Lean!,2006,5238.json,Young Dro,en
@@ -4923,6 +4927,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 66,Akon feat. Eminem,Smack That,2006,5245.json,Akon,en
 67,Ray J,One Wish,2006,5246.json,Ray J,en
 68,Fall Out Boy,Sugar We're Goin' Down,2006,5247.json,Fall Out Boy,en
+69,Chris Brown feat. Lil' Wayne,Gimme That,2006,5248.json,Chris Brown,en
 70,Yung Joc feat. Brandy 'Ms. B.' Hambrick,I Know You See It,2006,5249.json,Yung Joc,en
 71,Bon Jovi,Who Says you can't Go Home,2006,5250.json,Bon Jovi,en
 72,JoJo,Too Little Too Late,2006,5251.json,JoJo,en
@@ -4937,6 +4942,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 82,Blue October,Hate Me,2006,5261.json,Blue October,en
 83,Lifehouse,You And Me,2006,5262.json,Lifehouse,en
 84,Pussycat Dolls feat. will.i.am,Beep,2006,5263.json,Pussycat Dolls,en
+85,"Dem Franchize Boyz feat. Jermaine Dupri, Da Brat and Bow Wow",I Think They Like Me,2006,5264.json,Dem Franchize Boyz,en
 86,Chris Brown,Say Goodbye,2006,5265.json,Chris Brown,en
 87,John Mayer,Waiting on the World to Change,2006,5266.json,John Mayer,en
 88,Young Jeezy feat. Akon,Soul Survivor,2006,5267.json,Young Jeezy,en
@@ -4990,7 +4996,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 36,Nickelback,Rockstar,2007,5315.json,Nickelback,en
 37,Fall Out Boy,Thnks Fr Th Mmrs,2007,5316.json,Fall Out Boy,en
 38,Linkin Park,What I've Done,2007,5317.json,Linkin Park,en
-39,Justin Timberlake,Summer Love,2007,5318.json,Justin Timberlake,en
 40,Lloyd feat. Lil' Wayne,You,2007,5319.json,Lloyd,en
 41,Elliott Yamin,Wait For You,2007,5320.json,Elliott Yamin,en
 42,Diddy feat. Keyshia Cole,Last Night,2007,5321.json,Diddy,en
@@ -5000,9 +5005,11 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 46,Hinder,Lips Of An Angel,2007,5325.json,Hinder,en
 47,John Mayer,Waiting On The World To Change,2007,5326.json,John Mayer,en
 48,Robin Thicke,Lost Without U,2007,5327.json,Robin Thicke,en
+49,R. Kelly Or Bow Wow (feat. T.I. and T-Pain),I'm A Flirt,2007,5328.json,R. Kelly Or Bow Wow (,en
 50,Nickelback,If Everyone Cared,2007,5329.json,Nickelback,en
 51,Lloyd,Get It Shawty,2007,5330.json,Lloyd,en
 52,Red Jumpsuit Apparatus,Face Down,2007,5331.json,Red Jumpsuit Apparatus,en
+53,Baby Boy Da Prince feat. Lil Boosie,The Way I Live,2007,5332.json,Baby Boy Da Prince,en
 55,All-American Rejects,It Ends Tonight,2007,5334.json,All-American Rejects,en
 56,Hurricane Chris,A Bay Bay,2007,5335.json,Hurricane Chris,en
 57,Ne-Yo,Because Of You,2007,5336.json,Ne-Yo,en
@@ -5053,6 +5060,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 2,Leona Lewis,Bleeding Love,2008,5381.json,Leona Lewis,en
 3,Alicia Keys,No One,2008,5382.json,Alicia Keys,en
 5,Timbaland feat. OneRepublic,Apologize,2008,5384.json,Timbal,en
+6,Jordin Sparks feat. Chris Brown,No Air,2008,5385.json,Jordin Sparks,en
 7,Sara Bareilles,Love Song,2008,5386.json,Sara Bareilles,en
 8,Usher feat. Young Jeezy,Love In This Club,2008,5387.json,Usher,en
 9,Chris Brown,With You,2008,5388.json,Chris Brown,en
@@ -5115,6 +5123,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 67,Colbie Caillat,Realize,2008,5446.json,Colbie Caillat,en
 68,Young Jeezy feat. Kanye West,Put On,2008,5447.json,Young Jeezy,en
 69,David Cook,The Time Of My Life,2008,5448.json,David Cook,en
+70,"Three 6 Mafia feat. Project Pat, Young D and Superpower",Lolli Lolli (Pop That Body),2008,5449.json,Three 6 Mafia,en
 71,Baby Bash feat. T-Pain,Cyclone,2008,5450.json,Baby Bash,en
 72,Natasha Bedingfield feat. Sean Kingston,Love Like This,2008,5451.json,Natasha Bedingfield,en
 73,Jonas Brothers,Burnin' Up,2008,5452.json,Jonas Brothers,en
@@ -5258,6 +5267,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 13,Young Money feat. Lloyd,Bedrock,2010,5592.json,Young Money,en
 14,Jason Derulo,In My Head,2010,5593.json,Jason Derulo,en
 15,Rihanna,Rude Boy,2010,5594.json,Rihanna,en
+16,Lady Gaga feat. Beyonce,Telephone,2010,5595.json,Lady Gaga,en
 17,Katy Perry,Teenage Dream,2010,5596.json,Katy Perry,en
 18,Bruno Mars,Just The Way You Are,2010,5597.json,Bruno Mars,en
 19,Mike Posner,Cooler Than Me,2010,5598.json,Mike Posner,en
@@ -5448,6 +5458,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 8,Rihanna feat. Calvin Harris,We Found Love,2012,5787.json,Rihanna,en
 9,Nicki Minaj,Starships,2012,5788.json,Nicki Minaj,en
 10,One Direction,What Makes You Beautiful,2012,5789.json,One Direction,en
+11,Flo Rida feat. Sia,Wild Ones,2012,5790.json,Flo Rida,en
 12,Adele,Set Fire To The Rain,2012,5791.json,Adele,en
 13,LMFAO,Sexy And I Know It,2012,5792.json,LMFAO,en
 14,fun.,Some Nights,2012,5793.json,fun.,en
@@ -5554,6 +5565,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 18,Miley Cyrus,Wrecking Ball,2013,5897.json,Miley Cyrus,en
 19,Avicii,Wake Me Up!,2013,5898.json,Avicii,en
 20,Justin Timberlake feat. Jay Z,Suit and Tie,2013,5899.json,Justin Timberlake,en
+22,Jay Z feat. Justin Timberlake,Holy Grail,2013,5901.json,Jay Z,en
 23,will.i.am and Britney Spears,Scream and Shout,2013,5902.json,will.i.am,en
 24,Zedd feat. Foxes,Clarity,2013,5903.json,Zedd,en
 25,AWOLNATION,Sail,2013,5904.json,AWOLNATION,en
@@ -5588,6 +5600,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 56,Calvin Harris feat. Ellie Goulding,I Need Your Love,2013,5935.json,Calvin Harris,en
 57,Ke$ha,Die Young,2013,5936.json,Ke$ha,en
 58,fun.,Some Nights,2013,5937.json,fun.,en
+59,Wale feat. Tiara Thomas or Rihanna,Bad,2013,5938.json,Wale,en
 60,Blake Shelton feat. Pistol Annies and Friends,Boys 'Round Here,2013,5939.json,Blake Shelton,en
 61,Phillip Phillips,"Gone, Gone, Gone",2013,5940.json,Phillip Phillips,en
 62,Imagine Dragons,Demons,2013,5941.json,Imagine Dragons,en
@@ -5629,7 +5642,9 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 99,2 Chainz,I'm Different,2013,5978.json,2 Chainz,en
 100,Paramore,Still Into You,2013,5979.json,Paramore,en
 1,Pharrell Williams,Happy,2014,5980.json,Pharrell Williams,en
+2,Katy Perry feat. Juicy J,Dark Horse,2014,5981.json,Katy Perry,en
 3,John Legend,All Of Me,2014,5982.json,John Legend,en
+4,Iggy Azalea feat. Charli XCX,Fancy,2014,5983.json,Iggy Azalea,en
 5,OneRepublic,Counting Stars,2014,5984.json,OneRepublic,en
 6,Jason Derulo feat. 2 Chainz,Talk Dirty,2014,5985.json,Jason Derulo,en
 7,MAGIC!,Rude,2014,5986.json,MAGIC!,en
@@ -5641,6 +5656,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 13,Taylor Swift,Shake It Off,2014,5992.json,Taylor Swift,en
 14,Nico and Vinz,Am I Wrong,2014,5993.json,Nico,en
 15,DJ Snake and Lil Jon,Turn Down For What,2014,5994.json,DJ Snake,en
+16,Eminem feat. Rihanna,The Monster,2014,5995.json,Eminem,en
 17,A Great Big World and Christina Aguilera,Say Something,2014,5996.json,A Great Big World,en
 18,Lorde,Team,2014,5997.json,Lorde,en
 19,Passenger,Let Her Go,2014,5998.json,Passenger,en
@@ -5654,6 +5670,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 27,"Jessie J, Ariana Grande & Nicki Minaj",Bang Bang,2014,6006.json,"Jessie J, Ariana Gr",en
 28,Disclosure feat. Sam Smith,Latch,2014,6007.json,Disclosure,en
 29,Maroon 5,Maps,2014,6008.json,Maroon 5,en
+30,Chris Brown feat. Lil Wayne and French Montana or Too $hort or Tyga,Loyal,2014,6009.json,Chris Brown,en
 31,American Authors,Best Day Of My Life,2014,6010.json,American Authors,en
 32,Tove Lo,Habits (Stay High),2014,6011.json,Tove Lo,en
 33,Calvin Harris,Summer,2014,6012.json,Calvin Harris,en
@@ -5703,7 +5720,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 79,Dierks Bentley,Drunk On A Plane,2014,6058.json,Dierks Bentley,en
 80,Katy Perry,Birthday,2014,6059.json,Katy Perry,en
 81,Lady Antebellum,Bartender,2014,6060.json,Lady Antebellum,en
-82,Naughty Boy feat. Sam Smith,La La La,2014,6061.json,Naughty Boy,en
 83,Robin Thicke feat. T.I. and Pharrell,Blurred Lines,2014,6062.json,Robin Thicke,en
 84,Lady Gaga feat. R. Kelly,Do What U Want,2014,6063.json,Lady Gaga,en
 85,Shakira feat. Rihanna,Can't Remember To Forget You,2014,6064.json,Shakira,en
@@ -5718,7 +5734,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 94,Zedd feat. Hayley Williams,Stay The Night,2014,6073.json,Zedd,en
 95,Beyonce,Partition,2014,6074.json,Beyonce,en
 96,Schoolboy Q feat. BJ The Chicago Kid,Studio,2014,6075.json,Schoolboy Q,en
-97,Drake,0 To 100 / The Catch Up,2014,6076.json,Drake,en
 98,Lee Brice,I Don't Dance,2014,6077.json,Lee Brice,en
 99,Miranda Lambert and Carrie Underwood,Somethin' Bad,2014,6078.json,Mir,en
 100,Miley Cyrus,Adore You,2014,6079.json,Miley Cyrus,en
@@ -5730,6 +5745,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 6,Walk The Moon,Shut Up and Dance,2015,6085.json,Walk The Moon,en
 7,Taylor Swift,Blank Space,2015,6086.json,Taylor Swift,en
 8,Silento,Watch Me,2015,6087.json,Silento,en
+9,Weeknd,Earned It (Fifty Shades Of Grey),2015,6088.json,Weeknd,en
 10,Weeknd,The Hills,2015,6089.json,Weeknd,en
 11,OMI,Cheerleader (Felix Jaehn Remix),2015,6090.json,OMI,en
 12,Weeknd,Can't Feel My Face,2015,6091.json,Weeknd,en
@@ -5767,6 +5783,7 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 44,Fetty Wap feat. Monty,My Way,2015,6123.json,Fetty Wap,en
 45,Sam Hunt,Take Your Time,2015,6124.json,Sam Hunt,en
 46,Maroon 5,Animals,2015,6125.json,Maroon 5,en
+47,Big Sean feat. E-40,I Don't F**k With You,2015,6126.json,Big Sean,en
 48,Rihanna,B**** Better Have My Money,2015,6127.json,Rihanna,en
 49,Rich Homie Quan,Flex (Ooh Ooh Ooh),2015,6128.json,Rich Homie Quan,en
 50,T-Wayne,Nasty Freestyle,2015,6129.json,T-Wayne,en
@@ -6005,7 +6022,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 87,Harry Styles,Sign Of The Times,2017,6366.json,Harry Styles,en
 88,Adele,Water Under The Bridge,2017,6367.json,Adele,en
 89,Miley Cyrus,Malibu,2017,6368.json,Miley Cyrus,en
-90,Marian Hill,Down,2017,6369.json,Marian Hill,en
 91,Cheat Codes Featuring Demi Lovato,No Promises,2017,6370.json,Cheat Codes,en
 92,Shawn Mendes,Treat You Better,2017,6371.json,Shawn Mendes,en
 93,Gucci Mane Featuring Migos,I Get The Bag,2017,6372.json,Gucci Mane,en
@@ -6074,7 +6090,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 58,Maroon 5,Wait,2018,6437.json,Maroon 5,en
 59,Cardi B,Be Careful,2018,6438.json,Cardi B,en
 60,Selena Gomez X Marshmello,Wolves,2018,6439.json,Selena Gomez X Marshmello,en
-61,Cardi B Featuring 21 Savage,Bartier Cardi,2018,6440.json,Cardi B,en
 62,Ariana Grande,God Is A Woman,2018,6441.json,Ariana Gr,en
 63,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",Big Bank,2018,6442.json,YG,en
 64,Demi Lovato,Sorry Not Sorry,2018,6443.json,Demi Lovato,en
@@ -6170,7 +6185,6 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 62,Post Malone,Circles,2019,6541.json,Post Malone,en
 63,Luke Combs,Beer Never Broke My Heart,2019,6542.json,Luke Combs,en
 64,"Young Thug, J. Cole & Travis Scott",The London,2019,6543.json,"Young Thug, J. Cole",en
-65,Daddy Yankee & Katy Perry Featuring Snow,Con Calma,2019,6544.json,Daddy Yankee,en
 66,YNW Melly,Murder On My Mind,2019,6545.json,YNW Melly,en
 67,Billie Eilish,When The Party's Over,2019,6546.json,Billie Eilish,en
 68,City Girls,Act Up,2019,6547.json,City Girls,en
@@ -6301,3 +6315,97 @@ Position,Artist,Song Title,Year,JSON file,Split Names,Song Language
 98,Moneybagg Yo,Said Sum,2020,6677.json,Moneybagg Yo,en
 99,H.E.R. Featuring YG,Slide,2020,6678.json,H.E.R.,en
 100,NLE Choppa Featuring Roddy Ricch,Walk Em Down,2020,6679.json,NLE Choppa,en
+1,Dua Lipa,Levitating,2021,6680.json,Dua Lipa,en
+2,The Weeknd & Ariana Grande,Save Your Tears,2021,6681.json,The Weeknd,en
+3,The Weeknd,Blinding Lights,2021,6682.json,The Weeknd,en
+4,24kGoldn Featuring iann dior,Mood,2021,6683.json,24kGoldn,en
+5,Olivia Rodrigo,Good 4 U,2021,6684.json,Olivia Rodrigo,en
+6,Doja Cat Featuring SZA,Kiss Me More,2021,6685.json,Doja Cat,en
+7,Silk Sonic (Bruno Mars & Anderson .Paak),Leave The Door Open,2021,6686.json,Silk Sonic (Bruno Mars,en
+8,Olivia Rodrigo,Drivers License,2021,6687.json,Olivia Rodrigo,en
+9,Lil Nas X,Montero (Call Me By Your Name),2021,6688.json,Lil Nas X,en
+10,Justin Bieber Featuring Daniel Caesar & Giveon,Peaches,2021,6689.json,Justin Bieber,en
+11,BTS,Butter,2021,6690.json,BTS,en
+12,The Kid LAROI & Justin Bieber,Stay,2021,6691.json,The Kid LAROI,en
+13,Olivia Rodrigo,Deja Vu,2021,6692.json,Olivia Rodrigo,en
+14,Ariana Grande,Positions,2021,6693.json,Ariana Gr,en
+15,Ed Sheeran,Bad Habits,2021,6694.json,Ed Sheeran,en
+16,Glass Animals,Heat Waves,2021,6695.json,Glass Animals,en
+17,The Kid LAROI,Without You,2021,6696.json,The Kid LAROI,en
+18,Luke Combs,Forever After All,2021,6697.json,Luke Combs,en
+19,Chris Brown & Young Thug,Go Crazy,2021,6698.json,Chris Brown,en
+20,Masked Wolf,Astronaut In The Ocean,2021,6699.json,Masked Wolf,en
+21,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,34+35,2021,6700.json,Ariana Gr,en
+22,Pop Smoke,What You Know Bout Love,2021,6701.json,Pop Smoke,en
+23,Machine Gun Kelly X blackbear,My Ex's Best Friend,2021,6702.json,Machine Gun Kelly X blackbear,en
+24,Lil Nas X & Jack Harlow,Industry Baby,2021,6703.json,Lil Nas X,en
+25,Billie Eilish,Therefore I Am,2021,6704.json,Billie Eilish,en
+26,Cardi B,Up,2021,6705.json,Cardi B,en
+27,Walker Hayes,Fancy Like,2021,6706.json,Walker Hayes,en
+29,Saweetie Featuring Doja Cat,Best Friend,2021,6708.json,Saweetie,en
+30,Polo G,Rapstar,2021,6709.json,Polo G,en
+31,Giveon,Heartbreak Anniversary,2021,6710.json,Giveon,en
+32,Pop Smoke Featuring Lil Baby & DaBaby,For The Night,2021,6711.json,Pop Smoke,en
+33,Lil Tjay Featuring 6LACK,Calling My Phone,2021,6712.json,Lil Tjay,en
+34,Maroon 5 Featuring Megan Thee Stallion,Beautiful Mistakes,2021,6713.json,Maroon 5,en
+35,Justin Bieber Featuring Chance The Rapper,Holy,2021,6714.json,Justin Bieber,en
+36,Lil Baby,On Me,2021,6715.json,Lil Baby,en
+37,Tate McRae,You Broke Me First.,2021,6716.json,Tate McRae,en
+38,Olivia Rodrigo,Traitor,2021,6717.json,Olivia Rodrigo,en
+39,Pooh Shiesty Featuring Lil Durk,Back In Blood,2021,6718.json,Pooh Shiesty,en
+40,Gabby Barrett Featuring Charlie Puth,I Hope,2021,6719.json,Gabby Barrett,en
+41,BTS,Dynamite,2021,6720.json,BTS,en
+42,Moneybagg Yo,Wockesha,2021,6721.json,Moneybagg Yo,en
+43,Doja Cat & The Weeknd,You Right,2021,6722.json,Doja Cat,en
+44,SpotemGottem Featuring Pooh Shiesty Or DaBaby,Beat Box,2021,6723.json,SpotemGottem,en
+45,Drake Featuring Lil Durk,Laugh Now Cry Later,2021,6724.json,Drake,en
+46,Doja Cat,Need To Know,2021,6725.json,Doja Cat,en
+47,Drake Featuring Lil Baby,Wants And Needs,2021,6726.json,Drake,en
+48,Drake Featuring Future & Young Thug,Way 2 Sexy,2021,6727.json,Drake,en
+49,Kali Uchis,Telepatia,2021,6728.json,Kali Uchis,en
+51,Internet Money & Gunna Featuring Don Toliver & NAV,Lemonade,2021,6730.json,Internet Money,en
+52,SZA,Good Days,2021,6731.json,SZA,en
+53,Chris Stapleton,Starting Over,2021,6732.json,Chris Stapleton,en
+54,Megan Thee Stallion,Body,2021,6733.json,Megan Thee Stallion,en
+55,Taylor Swift,Willow,2021,6734.json,Taylor Swift,en
+56,AJR,Bang!,2021,6735.json,AJR,en
+57,Luke Combs,Better Together,2021,6736.json,Luke Combs,en
+58,Yung Bleu Featuring Drake,You're Mines Still,2021,6737.json,Yung Bleu,en
+59,DJ Khaled Featuring Lil Baby & Lil Durk,Every Chance I Get,2021,6738.json,DJ Khaled,en
+60,Wizkid Featuring Justin Bieber & Tems,Essence,2021,6739.json,Wizkid,en
+61,Ryan Hurd With Maren Morris,Chasing After You,2021,6740.json,Ryan Hurd With Maren Morris,en
+62,Gabby Barrett,The Good Ones,2021,6741.json,Gabby Barrett,en
+63,Marshmello X Jonas Brothers,Leave Before You Love Me,2021,6742.json,Marshmello X Jonas Brothers,en
+64,Dan + Shay,Glad You Exist,2021,6743.json,Dan + Shay,en
+65,Justin Bieber & benny blanco,Lonely,2021,6744.json,Justin Bieber,en
+66,Maneskin,Beggin,2021,6745.json,Maneskin,en
+67,Doja Cat,Streets,2021,6746.json,Doja Cat,en
+68,Drake,What's Next,2021,6747.json,Drake,en
+69,Chris Young + Kane Brown,Famous Friends,2021,6748.json,Chris Young + Kane Brown,en
+70,Nelly & Florida Georgia Line,Lil Bit,2021,6749.json,Nelly,en
+71,Megan Thee Stallion,Thot Shit,2021,6750.json,Megan Thee Stallion,en
+72,Roddy Ricch,Late At Night,2021,6751.json,Roddy Ricch,en
+73,Ava Max,Kings & Queens,2021,6752.json,Ava Max,en
+74,Justin Bieber,Anyone,2021,6753.json,Justin Bieber,en
+75,Mooski,Track Star,2021,6754.json,Mooski,en
+76,Moneybagg Yo,Time Today,2021,6755.json,Moneybagg Yo,en
+77,Megan Thee Stallion Featuring DaBaby,Cry Baby,2021,6756.json,Megan Thee Stallion,en
+78,Mariah Carey,All I Want For Christmas Is You,2021,6757.json,Mariah Carey,en
+79,Coi Leray Featuring Lil Durk,No More Parties,2021,6758.json,Coi Leray,en
+80,Thomas Rhett,What's Your Country Song,2021,6759.json,Thomas Rhett,en
+82,Duncan Laurence,Arcade,2021,6761.json,Duncan Laurence,en
+84,Niko Moon,Good Time,2021,6763.json,Niko Moon,en
+85,Jason Aldean & Carrie Underwood,If I Didn't Love You,2021,6764.json,Jason Aldean,en
+86,Drake Featuring 21 Savage & Project Pat,Knife Talk,2021,6765.json,Drake,en
+87,Ariana Grande,pov,2021,6766.json,Ariana Gr,en
+89,The Weeknd,Take My Breath,2021,6768.json,The Weeknd,en
+90,Dua Lipa,We're Good,2021,6769.json,Dua Lipa,en
+91,Eric Church,Hell Of A View,2021,6770.json,Eric Church,en
+92,Brenda Lee,Rockin' Around The Christmas Tree,2021,6771.json,Brenda Lee,en
+93,Ritt Momney,Put Your Records On,2021,6772.json,Ritt Momney,en
+94,Billie Eilish,Happier Than Ever,2021,6773.json,Billie Eilish,en
+95,Cole Swindell,Single Saturday Night,2021,6774.json,Cole Swindell,en
+96,Lainey Wilson,Things A Man Oughta Know,2021,6775.json,Lainey Wilson,en
+97,BRS Kash,Throat Baby (Go Baby),2021,6776.json,BRS Kash,en
+98,Rod Wave,Tombstone,2021,6777.json,Rod Wave,en
+99,Chase Rice Featuring Florida Georgia Line,Drinkin' Beer. Talkin' God. Amen.,2021,6778.json,Chase Rice,en
